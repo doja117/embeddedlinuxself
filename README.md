@@ -1,0 +1,1 @@
+Follows Embedded Systems by Colorado Boulder Coursera + Book tuts by Linux System Programming
